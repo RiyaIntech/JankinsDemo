@@ -1,0 +1,12 @@
+D:\Projects\MyProjects\JankinsWebApp\JankinsWebApp\obj\Release\net7.0\PubTmp\Out\JankinsWebApp.exe
+D:\Projects\MyProjects\JankinsWebApp\JankinsWebApp\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\Projects\MyProjects\JankinsWebApp\JankinsWebApp\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\Projects\MyProjects\JankinsWebApp\JankinsWebApp\obj\Release\net7.0\PubTmp\Out\JankinsWebApp.dll
+D:\Projects\MyProjects\JankinsWebApp\JankinsWebApp\obj\Release\net7.0\PubTmp\Out\JankinsWebApp.deps.json
+D:\Projects\MyProjects\JankinsWebApp\JankinsWebApp\obj\Release\net7.0\PubTmp\Out\JankinsWebApp.runtimeconfig.json
+D:\Projects\MyProjects\JankinsWebApp\JankinsWebApp\obj\Release\net7.0\PubTmp\Out\JankinsWebApp.pdb
+D:\Projects\MyProjects\JankinsWebApp\JankinsWebApp\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\MyProjects\JankinsWebApp\JankinsWebApp\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Projects\MyProjects\JankinsWebApp\JankinsWebApp\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\MyProjects\JankinsWebApp\JankinsWebApp\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\MyProjects\JankinsWebApp\JankinsWebApp\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
