@@ -4,6 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <PublishProvider>FileSystem</PublishProvider>
     <PublishUrl>bin\Release\net7.0\publish\</PublishUrl>
     <WebPublishMethod>Package</WebPublishMethod>
   </PropertyGroup>
