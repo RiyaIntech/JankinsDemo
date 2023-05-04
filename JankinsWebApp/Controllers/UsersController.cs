@@ -20,5 +20,11 @@ namespace JankinsWebApp.Controllers
     {
       return Users.ToArray();
     }
+    [HttpPost(Name = "GetEmployee")]
+    public string Post()
+    {
+      return Users.FirstOrDefault();
+    }
+
   }
 }
