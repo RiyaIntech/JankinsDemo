@@ -8,7 +8,7 @@ namespace JankinsWebApp.Controllers
   {
     private static readonly string[] Users = new[]
     {
-        "Riya", "Rashmin", "Harsh", "Dhaval", "Jainam","Rutu","Disha","Test","Bony"
+        "Riya", "Rashmin", "Harsh", "Dhaval", "Jainam","Rutu","Disha","Bony"
     };
     private readonly ILogger<UsersController> _logger;
     public UsersController(ILogger<UsersController> logger)
